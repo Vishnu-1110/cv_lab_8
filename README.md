@@ -68,7 +68,8 @@ The image after applying the 9 × 9 mean filter.
 
 ### Output Image
 
-![Image Filtering Output](output.png)
+<img width="1224" height="591" alt="image" src="https://github.com/user-attachments/assets/43589ed1-51cf-4609-9ecf-39c932293c58" />
+
 
 ## Result
 
